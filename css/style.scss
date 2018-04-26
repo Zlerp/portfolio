@@ -1,0 +1,26 @@
+body, html {
+  height:100%;
+  background-color: #23272b;
+  color: white;
+}
+
+.stat {
+  .stat-logo {
+    max-width: 60px;
+    height: 60px;
+    svg {
+      height: 60px;
+      width: 60px;
+    }
+  }
+
+}
+
+
+.section-padding {
+  //min-height: 100vh;
+  padding: 30px 0;
+}
+
+
+@import "8bitBtns";
